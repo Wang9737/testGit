@@ -4,5 +4,7 @@ public class Open{
 		Scanner sc = new Scanner(System.in);
 		int sum1 = sc.nextInt();
 		System.out.println(sum1);
+                                System.out.println("Wish us a bright future");
+
 	}
 }
